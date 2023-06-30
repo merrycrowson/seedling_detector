@@ -1,2 +1,2 @@
 # seedling_detector
-Code for the HE deep learning for forestry applications
+Code for the home exercide (HE) deep learning for forestry applications
